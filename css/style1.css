@@ -1,0 +1,25 @@
+.site2{
+    background-color: rgb(16, 15, 15);
+    max-width: 1400px;
+    min-height: 800px;
+}
+.title_who{
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 50px 0;
+    text-shadow: 3px 3px 3px rgb(207, 207, 207);
+}
+.image_who{
+    text-align: center;
+}
+.text_who{
+    font-size: 21px;
+    color: rgb(248, 232, 232);
+    line-height: 30px;
+    text-shadow: 1px 1px 1px rgb(169, 163, 163);
+    text-align: center;
+    padding: 30px 0;
+}

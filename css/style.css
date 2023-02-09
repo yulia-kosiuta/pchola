@@ -1,0 +1,194 @@
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 1200px;
+    padding: 0;
+    margin: 0;
+
+}
+.site{
+    background-color: gray;
+}
+.header{
+    display: flex;
+    background-color: rgb(53, 51, 51);
+    padding: 15px;
+
+}
+.search{
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    display: block;
+    position: relative;
+    left: 600px;
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+color: darkgray;
+}
+.who_is a{
+    background-color: black;
+    padding: 10px 20px;
+    margin: 0 25px;
+    border-radius: 10px;
+}
+.instagram a{
+    background-color: black;
+    padding: 10px 20px;
+    margin: 0 25px;
+    border-radius: 10px;
+}
+.dream a{
+    background-color: black;
+    padding: 10px 20px;
+    margin: 0 25px;
+    border-radius: 10px;
+}
+.right_header{
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 3px;
+    line-height: 40px;
+}
+.title{
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 50px 0;
+    text-shadow: 3px 3px 3px black;
+    padding-bottom: 70px;
+}
+.main_one_body{
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    align-items: center;
+}
+.main_one_body_image img{
+width: 250px;
+height: 250px;
+}
+.one_label{
+font-size: 25px;
+text-align: center;
+letter-spacing: 3px;
+color: rgb(248, 232, 232);
+font-weight: 700;
+padding: 20px 0;
+text-shadow: 3px 3px 3px black;
+}
+.one_text{
+    font-size: 18px;
+    color: rgb(248, 232, 232);
+    line-height: 30px;
+    text-shadow: 3px 3px 3px black;
+}
+.main_one_body_text{
+    width: 400px;
+   
+}
+.main_two_body{
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    align-items: center;
+}
+.main_two_body_image img{
+    width: 200px;
+        height: 400px;
+    }
+    .two_label{
+        font-size: 25px;
+        text-align: center;
+        letter-spacing: 3px;
+        color: rgb(248, 232, 232);
+        font-weight: 700;
+        padding: 20px 0;
+        text-shadow: 3px 3px 3px black;
+        }
+        .two_text{
+            font-size: 18px;
+            color: rgb(248, 232, 232);
+            line-height: 30px;
+            text-shadow: 3px 3px 3px black;
+        }
+        .main_two_body_text{
+            width: 400px;
+           
+        }
+        .main_three_body{
+            display: flex;
+            justify-content: space-around;
+            height: 500px;
+            align-items: center;
+        }
+        .main_three_body_image img{
+            width: 400px;
+                height: 400px;
+            }
+            .three_label{
+                font-size: 25px;
+                text-align: center;
+                letter-spacing: 3px;
+                color: rgb(248, 232, 232);
+                font-weight: 700;
+                padding: 20px 0;
+                text-shadow: 3px 3px 3px black;
+                }
+                .three_text{
+                    font-size: 18px;
+                    color: rgb(248, 232, 232);
+                    line-height: 30px;
+                    text-shadow: 3px 3px 3px black;
+                }
+                .main_three_body_text{
+                    width: 400px;
+                   
+                }  
+                .main_four_body{
+                    display: flex;
+                    justify-content: space-around;
+                    height: 500px;
+                    align-items: center;
+                }
+                .main_four_body_image img{
+                    width: 300px;
+                        height: 300px;
+                        border-radius: 30px;
+                    }
+                    .four_label{
+                        font-size: 25px;
+                        text-align: center;
+                        letter-spacing: 3px;
+                        color: rgb(248, 232, 232);
+                        font-weight: 700;
+                        padding: 20px 0;
+                        text-shadow: 3px 3px 3px black;
+                        }
+                        .four_text{
+                            font-size: 18px;
+                            color: rgb(248, 232, 232);
+                            line-height: 30px;
+                            text-shadow: 3px 3px 3px black;
+                        }
+                        .main_four_body_text{
+                            width: 400px;
+                           
+                        }
+.footer_text{
+    color: #fff;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    padding: 20px 0;
+    text-shadow: 3px 3px 3px black;
+    background-color: rgb(53, 51, 51);
+}
+
+
